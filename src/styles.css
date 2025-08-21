@@ -1,0 +1,10 @@
+:root{--bg:#0f1724;--muted:#94a3b8}
+html,body,#root{height:100%;margin:0}
+body{font-family:Inter,system-ui,Arial;background:var(--bg);color:#e6eef8}
+.min-h-screen{min-height:100vh}
+.max-w-7xl{max-width:1100px;margin-left:auto;margin-right:auto}
+.mx-auto{margin-left:auto;margin-right:auto}
+.px-4{padding-left:16px;padding-right:16px}
+.py-16{padding-top:64px;padding-bottom:64px}
+.py-20{padding-top:80px;padding-bottom:80px}
+a{color:inherit}
